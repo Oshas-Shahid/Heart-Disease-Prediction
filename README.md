@@ -1,6 +1,6 @@
-# Heart-Disease-Prediction
+**Heart-Disease-Prediction**
 Heart Disease Prediction with Logistic Regression Predicting heart disease risk with ML — powered by real medical data, clean code, and smart insights
-# 🫀 Heart Disease Prediction with Logistic Regression
+# Heart Disease Prediction with Logistic Regression
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)

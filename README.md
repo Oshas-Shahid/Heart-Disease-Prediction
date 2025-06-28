@@ -12,7 +12,7 @@ Predict whether a person is at risk of heart disease using health data like age,
 
  **Dataset**
 - **Name:** UCI Heart Disease Dataset
-- **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+- **Source:** [https://www.kaggle.com/datasets/arezaei81/heartcsv]
 - **Rows:** 303
 - **Columns:** 14 (13 features + 1 target)
 

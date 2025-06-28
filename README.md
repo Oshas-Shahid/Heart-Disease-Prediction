@@ -7,7 +7,7 @@ Heart Disease Prediction with Logistic Regression Predicting heart disease risk 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-** Objective**
+**Objective**
 Predict whether a person is at risk of heart disease using health data like age, cholesterol level, blood pressure, etc.
 
  **Dataset**
@@ -26,7 +26,7 @@ Predict whether a person is at risk of heart disease using health data like age,
    - ROC-AUC Curve
 5.  **Feature Importance:** Identified key health indicators affecting heart disease risk
 
-** Results**
+**Results**
 - **Accuracy:** 81.3%
 - **AUC Score:** 0.81
 - **Most Important Features:**
@@ -39,7 +39,7 @@ Predict whether a person is at risk of heart disease using health data like age,
 - Count plots and heatmaps to explore feature relationships
 - Feature importance visualized using coefficients
 
-** Final Insights**
+**Final Insights**
 This notebook demonstrates how logistic regression can be applied to medical datasets to help predict disease risk, making it valuable for healthcare data analysis and early detection support systems.
 
 **Tech Stack**
